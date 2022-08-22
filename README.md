@@ -1,6 +1,9 @@
 # project-landing-review
-# FCC Test Suite Template
+This is a code review of one of my past projects during Microverse admission process.
+This is code copied from [project-landing](https://github.com/Lornakaboro/projectlanding)
+The review is aimed at checking for;
+- Applying best practices in HTML code.
+- Use of semantic HTML tags.
+- Use  of CSS selectors correctly.
+- Use of CSS box model.
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
-
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
